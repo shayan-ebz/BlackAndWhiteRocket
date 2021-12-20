@@ -1,0 +1,478 @@
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 0
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 2
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 3
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Jump/predatormask__0030_jump_4.uasset" 4
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/jump/predatormask__0030_jump_4_Sprite.uasset" 5
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/background.uasset" 6
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/2.uasset" 7
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/2_Sprite.uasset" 8
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2_Sprite.uasset" 9
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/3.uasset" 10
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/3_Sprite.uasset" 11
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/3_Sprite.uasset" 12
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/6.uasset" 13
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/6_Sprite.uasset" 14
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/6_Sprite.uasset" 15
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/4.uasset" 16
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/4_Sprite.uasset" 17
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/5.uasset" 18
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/5_Sprite.uasset" 19
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/1.uasset" 20
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/Floor_Sprite.uasset" 21
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/7.uasset" 22
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/7_Sprite.uasset" 23
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Buttons/7_Simple.uasset" 24
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0039_fire_5.uasset" 25
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0039_fire_5_Sprite.uasset" 26
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/FlipBook/FireReady.uasset" 27
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0035_fire_1.uasset" 28
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/GunReady/armor__0035_fire_1_Sprite.uasset" 29
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0036_fire_2.uasset" 30
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/GunReady/armor__0036_fire_2_Sprite.uasset" 31
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0037_fire_3.uasset" 32
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/GunReady/armor__0037_fire_3_Sprite.uasset" 33
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0038_fire_4.uasset" 34
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/GunReady/armor__0038_fire_4_Sprite.uasset" 35
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/FlipBook/GunOut.uasset" 36
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0026_dead_5.uasset" 37
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0026_dead_5_Sprite.uasset" 38
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/Cap_Die1.uasset" 39
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0040_fire_6.uasset" 40
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0040_fire_6_Sprite.uasset" 41
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0041_fire_7.uasset" 42
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0041_fire_7_Sprite.uasset" 43
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0042_fire_8.uasset" 44
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0042_fire_8_Sprite.uasset" 45
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0043_fire_9.uasset" 46
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0043_fire_9_Sprite.uasset" 47
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0044_fire_10.uasset" 48
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0044_fire_10_Sprite.uasset" 49
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Shoot/armor__0045_-11.uasset" 50
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Shoot/Attack/armor__0045_-11_Sprite.uasset" 51
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/LibreBaskerville-Bold.uasset" 52
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/LibreBaskerville-Bold_Font.uasset" 53
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/LibreBaskerville-Italic.uasset" 54
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/LibreBaskerville-Italic_Font.uasset" 55
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/LibreBaskerville-Regular.uasset" 56
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/LibreBaskerville-Regular_Font.uasset" 57
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/GameIMage/Tired_sDutyIMG1.uasset" 58
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_03.uasset" 59
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_03_Sprite.uasset" 60
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_05.uasset" 61
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_05_Sprite.uasset" 62
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_07.uasset" 63
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_07_Sprite.uasset" 64
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_08.uasset" 65
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_08_Sprite.uasset" 66
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_000.uasset" 67
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_000_Sprite.uasset" 68
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 69
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/AIBehavior/BB_AI.uasset" 70
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/AIBehavior/GetCaptainLocation.uasset" 71
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/AIBehavior/BT_NotifyAll.uasset" 72
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/AIBehavior/ChooseNextWaypoint.uasset" 73
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/AIBehavior/BT_Patrol.uasset" 74
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/AIBehavior/BT_AI.uasset" 75
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_AIController.uasset" 76
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Die/predatormask__0022_dead_1.uasset" 77
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Die/predatormask__0022_dead_1_Sprite.uasset" 78
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Die/predatormask__0023_dead_2.uasset" 79
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Die/predatormask__0023_dead_2_Sprite.uasset" 80
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Die/predatormask__0024_dead_3.uasset" 81
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Die/predatormask__0024_dead_3_Sprite.uasset" 82
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Die/predatormask__0025_dead_4.uasset" 83
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Die/predatormask__0025_dead_4_Sprite.uasset" 84
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Die/predatormask__0026_dead_5.uasset" 85
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Die/predatormask__0026_dead_5_Sprite.uasset" 86
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/FlipBook/EnemyDead.uasset" 87
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Walk/predatormask__0006_walk_1.uasset" 88
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Walk/predatormask__0006_walk_1_Sprite.uasset" 89
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Walk/predatormask__0007_walk_2.uasset" 90
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Walk/predatormask__0007_walk_2_Sprite.uasset" 91
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Walk/predatormask__0008_walk_3.uasset" 92
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Walk/predatormask__0008_walk_3_Sprite.uasset" 93
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Walk/predatormask__0009_walk_4.uasset" 94
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Walk/predatormask__0009_walk_4_Sprite.uasset" 95
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Walk/predatormask__0010_walk_5.uasset" 96
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Walk/predatormask__0010_walk_5_Sprite.uasset" 97
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Walk/predatormask__0011_walk_6.uasset" 98
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Walk/predatormask__0011_walk_6_Sprite.uasset" 99
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/FlipBook/EnemyWalk.uasset" 100
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Idle/predatormask__0000_idle_1.uasset" 101
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Idle/predatormask__0000_idle_1_Sprite.uasset" 102
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Idle/predatormask__0001_idle_2.uasset" 103
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Idle/predatormask__0001_idle_2_Sprite.uasset" 104
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Idle/predatormask__0002_idle_3.uasset" 105
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Idle/predatormask__0002_idle_3_Sprite.uasset" 106
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/Idle/EnemyIdle.uasset" 107
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Jump/predatormask__0027_jump_1.uasset" 108
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/jump/predatormask__0027_jump_1_Sprite.uasset" 109
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Jump/predatormask__0028_jump_2.uasset" 110
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/jump/predatormask__0028_jump_2_Sprite.uasset" 111
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Images/Jump/predatormask__0029_jump_3.uasset" 112
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/jump/predatormask__0029_jump_3_Sprite.uasset" 113
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/AIEnemy/Sprites/jump/EnemyJump.uasset" 114
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/BulletSound.uasset" 115
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/BulletSound_Cue.uasset" 116
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_AIEnemy.uasset" 117
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Projectile/flash1.uasset" 118
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Projectile/flash1_Sprite.uasset" 119
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Projectile/flash.uasset" 120
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/hdeath2.uasset" 121
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/hdeath2_Cue.uasset" 122
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_Projectile.uasset" 123
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Idle/armor__0000_idle_1.uasset" 124
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Idle/armor__0000_idle_1_Sprite.uasset" 125
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Idle/armor__0001_idle_2.uasset" 126
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Idle/armor__0001_idle_2_Sprite.uasset" 127
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Idle/armor__0002_idle_3.uasset" 128
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Idle/armor__0002_idle_3_Sprite.uasset" 129
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/FlipBook/Cap_Idle.uasset" 130
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Jump/armor__0027_jump_1.uasset" 131
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Jump/armor__0027_jump_1_Sprite.uasset" 132
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Jump/armor__0028_jump_2.uasset" 133
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Jump/armor__0028_jump_2_Sprite.uasset" 134
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Jump/armor__0028_jump_3.uasset" 135
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Jump/armor__0028_jump_3_Sprite.uasset" 136
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Jump/armor__0030_jump_4.uasset" 137
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Jump/armor__0030_jump_4_Sprite.uasset" 138
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/FlipBook/Cap_Jump.uasset" 139
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Running/armor__0012_run_1.uasset" 140
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Running/armor__0012_run_1_Sprite.uasset" 141
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Running/armor__0013_run_2.uasset" 142
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Running/armor__0013_run_2_Sprite.uasset" 143
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Running/armor__0014_run_3.uasset" 144
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Running/armor__0014_run_3_Sprite.uasset" 145
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Running/armor__0015_run_4.uasset" 146
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Running/armor__0015_run_4_Sprite.uasset" 147
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Running/armor__0016_run_5.uasset" 148
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Running/armor__0016_run_5_Sprite.uasset" 149
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Running/armor__0017_run_6.uasset" 150
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Running/armor__0017_run_6_Sprite.uasset" 151
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/FlipBook/Cap_Run.uasset" 152
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/FlipBook/Cap_Shoot.uasset" 153
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0020_hurt_3.uasset" 154
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0020_hurt_3_Sprite.uasset" 155
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0021_hurt_4.uasset" 156
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0021_hurt_4_Sprite.uasset" 157
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0022_dead_1.uasset" 158
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0022_dead_1_Sprite.uasset" 159
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0023_dead_2.uasset" 160
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0023_dead_2_Sprite.uasset" 161
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0024_dead_3.uasset" 162
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0024_dead_3_Sprite.uasset" 163
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Images/Die/armor__0025_dead_4.uasset" 164
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/armor__0025_dead_4_Sprite.uasset" 165
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Captain/Sprites/Die/Cap_Die.uasset" 166
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/die1.uasset" 167
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/die1_Cue.uasset" 168
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_PaperCaptain.uasset" 169
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/Righteous/Righteous-Regular.uasset" 170
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Fonts/Righteous/Righteous-Regular_Font.uasset" 171
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/7.uasset" 172
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/7_Sprite.uasset" 173
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Buttons/7_Shiny.uasset" 174
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/buttonclick.uasset" 175
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/buttonclick_Cue.uasset" 176
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/Menu/WBP_BackToRocket.uasset" 177
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Image/Bomb_3_Idle_000.uasset" 178
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Sprite/Bomb_3_Idle_000_Sprite.uasset" 179
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Image/Bomb_3_Idle_001.uasset" 180
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Sprite/Bomb_3_Idle_001_Sprite.uasset" 181
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Image/Bomb_3_Idle_002.uasset" 182
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Sprite/Bomb_3_Idle_002_Sprite.uasset" 183
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Image/Bomb_3_Idle_003.uasset" 184
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Sprite/Bomb_3_Idle_003_Sprite.uasset" 185
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Image/Bomb_3_Idle_004.uasset" 186
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Sprite/Bomb_3_Idle_004_Sprite.uasset" 187
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Bomb/Sprite/Bomb_3_Idle.uasset" 188
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/task_complete.uasset" 189
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/task_complete_Cue.uasset" 190
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_Bomb.uasset" 191
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/Bomb.uasset" 192
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_FrameDetection.uasset" 193
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 194
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 195
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 196
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 197
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 198
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 199
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 200
+"../../../Engine/Content/BasicShapes/Cone.uasset" 201
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 202
+"../../../Engine/Content/BasicShapes/Plane.uasset" 203
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 204
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 205
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 206
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 207
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 208
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 209
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 210
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 211
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 212
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 213
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 214
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 215
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 216
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 217
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 218
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 219
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 220
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 221
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 222
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 223
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 224
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 225
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 226
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 227
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 228
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 229
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 230
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 231
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 232
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 233
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 234
+"../../../Engine/Content/EditorResources/S_Note.uasset" 235
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 236
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 237
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 238
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 239
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 240
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 241
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 242
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 243
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 244
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 245
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 246
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 247
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 248
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 249
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 250
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 251
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 252
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 253
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 254
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 255
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 256
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 257
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 258
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 259
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 260
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 261
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 262
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 263
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 264
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 265
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 266
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 267
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 268
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 269
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 270
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 271
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 273
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 274
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 275
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 276
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 277
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 278
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 279
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 280
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 281
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 283
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 284
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 285
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 286
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 287
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 288
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 289
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 290
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 291
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 292
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 293
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 294
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 295
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 296
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 297
+"../../../Engine/Content/EngineResources/Black.uasset" 298
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 299
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 300
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 301
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 302
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 303
+"../../../Engine/Content/EngineSounds/Master.uasset" 304
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 306
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 307
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 308
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 309
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 322
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 323
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 324
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 325
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 326
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 327
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 328
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 329
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 330
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 331
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 332
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 333
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 334
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 335
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 336
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 337
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 338
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 339
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 340
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 341
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 342
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 343
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 344
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 345
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 346
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 347
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 348
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 349
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 350
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 351
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 352
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 353
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 354
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 355
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 357
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 358
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 359
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 360
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 361
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 362
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 363
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 364
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 365
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 366
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 367
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 368
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 369
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 370
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 371
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 372
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 373
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 374
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 375
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/Level_Saver.uasset" 376
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/WBP_Credit.uasset" 377
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/Menu/WBP_Levels.uasset" 378
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/MainBackground.uasset" 379
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/Menu/WBP_MainMenu.uasset" 380
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map0.umap" 381
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/Giude/WBP_ButtonGuid.uasset" 382
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/Giude/WBP_LandMSG.uasset" 383
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/Giude/WBP_LevelLoads.uasset" 384
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map0_1.umap" 385
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 386
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 387
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 388
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 389
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 390
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 391
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 392
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 393
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 394
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Flying/Missile_02.uasset" 395
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Flying/Missile_02_Sprite.uasset" 396
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Flipbook/Missile.uasset" 397
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_001.uasset" 398
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_001_Sprite.uasset" 399
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_002.uasset" 400
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_002_Sprite.uasset" 401
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_003.uasset" 402
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_003_Sprite.uasset" 403
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_004.uasset" 404
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_004_Sprite.uasset" 405
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_005.uasset" 406
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_005_Sprite.uasset" 407
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_006.uasset" 408
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_006_Sprite.uasset" 409
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_007.uasset" 410
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_007_Sprite.uasset" 411
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Explosion/Missile_2_Explosion_008.uasset" 412
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Explosion/Missile_2_Explosion_008_Sprite.uasset" 413
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Flipbook/Missile_2_Explosion.uasset" 414
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Flying/Missile_2_Flying_000.uasset" 415
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Flying/Missile_2_Flying_000_Sprite.uasset" 416
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Flying/Missile_2_Flying_001.uasset" 417
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Flying/Missile_2_Flying_001_Sprite.uasset" 418
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Flying/Missile_2_Flying_002.uasset" 419
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Flying/Missile_2_Flying_002_Sprite.uasset" 420
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Images/Flying/Missile_2_Flying_003.uasset" 421
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Sprites/Flying/Missile_2_Flying_003_Sprite.uasset" 422
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Rocket/Flipbook/Missile_2_Flying.uasset" 423
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/bustcrate2.uasset" 424
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/RocketBoom_Cue.uasset" 425
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_RocketPawn.uasset" 426
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_GameMode_Game.uasset" 427
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/Giude/WBP_LandingComformed.uasset" 428
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_LandConfermation.uasset" 429
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map1_0_BuiltData.uasset" 430
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/Menu/WBP_InGameMenu.uasset" 431
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/setting_icon.uasset" 432
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/torn_AK-47.uasset" 433
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Sounds/torn_AK-47_Cue.uasset" 434
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/WBP_Buttons.uasset" 435
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/WBP_GO.uasset" 436
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/2.uasset" 437
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/2_Sprite.uasset" 438
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/6.uasset" 439
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/6_Sprite.uasset" 440
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/hiclipart_com.uasset" 441
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/hiclipart_com_Sprite.uasset" 442
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_02.uasset" 443
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_02_Sprite.uasset" 444
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_06.uasset" 445
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_06_Sprite.uasset" 446
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_09.uasset" 447
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_09_Sprite.uasset" 448
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Images/Meteor_10.uasset" 449
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Obstacles/Sprites/Meteor_10_Sprite.uasset" 450
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map1_0.umap" 451
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/Menu/WBP_DestroyRocket.uasset" 452
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_FirstMSG.uasset" 453
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/BP_GameMode_Game_Child.uasset" 454
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/GameLogics/CaptainLevelEnd.uasset" 455
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map1_1_BuiltData.uasset" 456
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 457
+"../../../Engine/Content/BasicShapes/Cube.uasset" 458
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 459
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/Giude/WBP_CaptainComes.uasset" 460
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Buttons/FireButton.uasset" 461
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/_Blueprint/HUD/GamePlay/WBP_CaptainButtons.uasset" 462
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/1/3.uasset" 463
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/1/3_Sprite.uasset" 464
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map1_1.umap" 465
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map2_0_BuiltData.uasset" 466
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map2_0.umap" 467
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map2_1_BuiltData.uasset" 468
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/1.uasset" 469
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/1_Sprite.uasset" 470
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/4.uasset" 471
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/4_Sprite.uasset" 472
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Images/2/5.uasset" 473
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/ImportedContent/Backgrounds/Sprites/2/5_Sprite.uasset" 474
+"../../../../../Unreaal Projects/BlackAndWhiteRocket/Content/Levels/map2_1.umap" 475
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 476
+"../../../Engine/Content/Maps/Entry.umap" 477
